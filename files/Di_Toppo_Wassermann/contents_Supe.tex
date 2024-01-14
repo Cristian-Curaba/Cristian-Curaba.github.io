@@ -1,0 +1,71 @@
+\documentclass[11pt,letterpaper,sans]{moderncv}
+
+\moderncvstyle{banking} % 'casual', 'classic', 'oldstyle' 'banking', 'fancy'
+\moderncvcolor{blue} % 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\usepackage{changepage}
+\usepackage{enumitem} %itemize customization
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+\usepackage[inkscapeformat=png]{svg}
+\addtolength{\voffset}{-3.5em}
+\addtolength{\textheight}{7em}
+\setlength{\hintscolumnwidth}{2.5cm} % width of dates column
+\newcommand{\Rlogo}{\protect\includegraphics[height=1.8ex,keepaspectratio]{../files/Rlogo.png}}
+\newcommand{\Jupyter}{\protect\includesvg[width=0.15in]{../files/Jupyter_logo.svg}}
+\newcommand{\entry}[6]%
+{\cventry[0.85em]{#4}{#3}{#2}{#1}{#5}{#6}} % banking
+\newcommand{\cvurl}[1]{\bgroup\color{blue}\normalfont\url{#1}\egroup}
+\newcommand{\arxiv}[1]{\bgroup\color{blue}\normalfont\rmfamily%
+\href{http://arxiv.org/abs/#1}{arXiv:#1}\egroup}
+
+
+
+\lfoot{\emph{Last update: \today}}
+
+\newcommand{\subtext}[1]{\bgroup\footnotesize\rmfamily\color{black!70}#1\egroup}
+\newcommand{\previous}[1]{\bgroup\color{black}\bfseries#1\egroup}
+
+\newcommand{\job}[4]{\smallskip\cvitemwithcomment{#2}{#1}{#3}%
+\unskip\subtext{#4}\medskip}
+
+\newcommand{\pub}[2]{\cvlistitem{#1. \\ \subtext{#2}}\smallskip}
+\newcommand{\paper}[3]{\pub{#1}{#2. \arxiv{#3}.}}
+
+\newcommand{\cventrywithsubtext}[7]{\cventry{#1}{#2}{#3}{#4}{#5}{#6}%
+\unskip\subtext{#7}\medskip}
+
+\name{Cristian}{Curaba}
+\email{cristiancuraba00@gmail.com}
+%homepage{web.evanchen.cc} % URL
+\social[linkedin]{Cristian-Curaba}
+\social[github]{Cristian-Curaba}
+
+\address{Udine, 33100}{Italy}
+%\social[facebook]{evanchenmath}
+\lfoot{\emph{Last updated \today}}
+
+\photo[75pt]{../files/Foto_cv.png}
+
+\patchcmd{\makehead}% <cmd>
+  {\\[2.5em]}% <search>
+  {\hfill\raisebox{-1.9cm}[0pt][0pt]{\includegraphics[width=.14\textwidth]{../files/profile-pic.png}}\\[2.0em]}% <replace>
+  {}{}% <success><failure>
+
+\begin{document}
+\section{Courses for the School of Advanced Studies}
+\pub{Distributed Systems 28h (2023)}{Reference: \emph{Distributed Algorithms: An Intuitive Approach}, Wan Fokkink.}
+\pub{Computer Vision 28h (2023)}{Keywords: deep neural network, gradient descend, backward and forward propagation, adversarial network.}
+\pub{Applied Ethics 14h (2023)}{}
+\pub{Advanced Mathematical Methods for Engineering 28h (2022)}{Keywords: differential manifolds, Lie groups, synchronization problem on graph.}
+\pub{Fundamentals for data visualization 28h (2022)}{Keywords: Mackinlay principles, Weber law, Gestalt law, Tufte graphical design, complex data visualizations.}
+\pub{Memory, past and delay: mathematics and more 14h (2022)}{Keywords: retarded differential equations, dynamical systems, medicine application.}
+\pub{Quantum Information 28h (2021)}{Reference: \emph{Quantum Computation and Quantum Information}, A. Nielsen, L. Chuang.}
+\pub{Category Theory 28h (2021)}{Keywords: functors, natural transformations, Yoneda Lemma, commutative diagrams.}
+\pub{Blockchain and applications 14h (2021)}{}
+\pub{Topology and Order 28h (2020)}{Reference: \emph{Topology and order}, L. Nachbin.}{}
+\pub{Numbers and Geometry 28h (2020)}{}
+
+\section{Thesis for the School of Advanced Studies}
+\pub{Distributed Interval Synchronization On Directed Graphs (2022)}{Keywords: interval arithmetic, synchronization problem with intervals, implementation and analysis.}
+\pub{Entanglement Measure (2021)}{Keywords: quantum mechanics axioms, quantum information theory, Bell's Theorem, quantum teleportation.}
+\pub{Quaternion Numbers (2020)}{Keywords: Hamiltonian product, space geometry, rotations, visualizing $4^{th}$ dimension.}
+\end{document}
