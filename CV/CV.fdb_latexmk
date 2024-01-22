@@ -1,10 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1705057279 "/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" "CV.pdf" "CV" 1705057279
-  "../files/Jupyter_logo.svg" 1705056278 11002 51ba681c023d1874aff5e80a34d1cc56 ""
+["pdflatex"] 1705239746 "/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" "CV.pdf" "CV" 1705239746
   "../files/Rlogo.png" 1705056281 48148 909182496548f832840b6c43ef4fb5f7 ""
-  "../files/profile-pic.png" 1705056276 454098 fe462dd86095cc131dd6bed6bba3a1f3 ""
+  "../files/profile-pic.png" 1705239371 454098 fe462dd86095cc131dd6bed6bba3a1f3 ""
   "/etc/texmf/web2c/texmf.cnf" 1704211123 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" 1705057278 6983 a420a4ffb53335cb0b2df82077b51fe3 ""
+  "/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" 1705239743 7029 356b52d35ea8886a1e2ad3c959ec3768 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -217,9 +216,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1705055563 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1704211129 1435782 f3327f2802e8462da3265ce2b6cc79dc ""
-  "CV.aux" 1705057279 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "CV.aux" 1705239746 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "CV.out" 0 -1 0 "pdflatex"
-  "CV.tex" 1705057278 6983 a420a4ffb53335cb0b2df82077b51fe3 ""
+  "CV.tex" 1705239743 7029 356b52d35ea8886a1e2ad3c959ec3768 ""
   (generated)
   "CV.aux"
   "CV.log"

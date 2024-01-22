@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.2)  12 JAN 2024 12:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.2)  14 JAN 2024 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -752,75 +752,68 @@ deleted material, e.g., by typing `I$}'.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 90.
+(Font)              using `OT1/cmss/bx/n' instead on input line 91.
+
+/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex:91: Missing } inserted.
+<inserted text> 
+                }
+l.91 ...\cvurl{https://scuolasuperiore.uniud.it}.}
+                                                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex:91: Extra }, or forgotten \endgroup.
+<argument> ...ected graduation date: October 2024}
+                                                   & {\bfseries }\\
+l.91 ...\cvurl{https://scuolasuperiore.uniud.it}.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 90.
+(Font)              using `OT1/cmss/bx/n' instead on input line 91.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 90.
+(Font)              <9> on input line 91.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 90.
+(Font)              <5> on input line 91.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 95.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 95.
+(Font)              using `OT1/cmss/bx/n' instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 98.
+(Font)              using `OT1/cmss/bx/n' instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
+(Font)              using `OT1/cmss/bx/n' instead on input line 99.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
+(Font)              using `OT1/cmss/bx/n' instead on input line 104.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 105.
+(Font)              using `OT1/cmss/bx/n' instead on input line 104.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 106.
 
 
-Package svg Warning: You didn't enable `shell escape' (or `write18')
-(svg)                so it wasn't possible to launch the Inkscape export
-(svg)                for `../files/Jupyter_logo.svg' on input line 106.
-
-
-/home/cristian/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex:106: Package svg Error: File `Jupyter_logo_svg-raw.png' is missing.
-
-See the svg package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106 ...d}{C, \LaTeX, Jupyter Notebook \Jupyter.}
-                                                  
-Did you run the export with Inkscape? There's no file
-`./svg-inkscape/Jupyter_logo_svg-raw.png'
-although `../files/Jupyter_logo.svg' was found.
-
-
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 107.
 
-<../files/Rlogo.png, id=15, 726.715pt x 563.10374pt>
-File: ../files/Rlogo.png Graphic file (type png)
-<use ../files/Rlogo.png>
-Package pdftex.def Info: ../files/Rlogo.png  used on input line 107.
-(pdftex.def)             Requested size: 11.29944pt x 8.75998pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 107.
@@ -829,42 +822,51 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 108.
 
+<../files/Rlogo.png, id=15, 726.715pt x 563.10374pt>
+File: ../files/Rlogo.png Graphic file (type png)
+<use ../files/Rlogo.png>
+Package pdftex.def Info: ../files/Rlogo.png  used on input line 108.
+(pdftex.def)             Requested size: 11.29944pt x 8.75998pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 114.
+(Font)              using `OT1/cmss/bx/n' instead on input line 109.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 117.
+(Font)              using `OT1/cmss/bx/n' instead on input line 115.
 
-LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 117.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 118.
 
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 118.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 122.
+(Font)              using `OT1/cmss/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 123.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../files/profile-pic.png> <../files/Rlogo.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 138.
+(Font)              using `OT1/cmss/bx/n' instead on input line 139.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/sb/n' undefined
-(Font)              using `OT1/cmss/m/n' instead on input line 143.
+(Font)              using `OT1/cmss/m/n' instead on input line 144.
 
 
-Underfull \hbox (badness 10000) detected at line 143
+Underfull \hbox (badness 10000) detected at line 144
 \OT1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 150
+Underfull \hbox (badness 10000) detected at line 151
 \OT1/cmss/m/n/8 .
  []
 
@@ -885,15 +887,15 @@ Package rerunfilecheck Info: Checksums for `CV.out':
 (rerunfilecheck)             After:  29B20E7DE7B7A6E90B6A20FB2F2E107F;1343.
  ) 
 Here is how much of TeX's memory you used:
- 27229 strings out of 480171
- 528683 string characters out of 5894490
- 835849 words of memory out of 5000000
- 44616 multiletter control sequences out of 15000+600000
+ 27215 strings out of 480171
+ 528340 string characters out of 5894490
+ 836849 words of memory out of 5000000
+ 44606 multiletter control sequences out of 15000+600000
  494287 words of font info for 103 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  129i,12n,122p,1569b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on CV.pdf (2 pages, 731176 bytes).
+Output written on CV.pdf (2 pages, 731384 bytes).
 PDF statistics:
  132 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
