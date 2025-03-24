@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1732531887.17266 "/home/cristian-curaba/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" "CV.pdf" "CV" 1732531888.23013 0
+["pdflatex"] 1742827780.96801 "/home/cristian-curaba/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" "CV.pdf" "CV" 1742827781.81747 0
   "../files/Rlogo.png" 1722522768.69268 48148 909182496548f832840b6c43ef4fb5f7 ""
   "../files/profile-pic.png" 1722522768.70968 454098 fe462dd86095cc131dd6bed6bba3a1f3 ""
   "/etc/texmf/web2c/texmf.cnf" 1722518502.50165 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cristian-curaba/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" 1732531886.99161 7285 b7f7141b07b5b313775274202a8bca75 ""
+  "/home/cristian-curaba/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex" 1742827780.02796 7721 e2a6f60aebafed16cb05b9364908e7cb ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -31,7 +31,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1622837620 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1248133631 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb" 1248133631 25150 e0d09798d232ab9d00c5c0a8df6cc22d ""
@@ -201,9 +200,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1722520107.48855 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1722520185 8213931 27a54b7550b7673c22e7858e9ac8930f ""
-  "CV.aux" 1732531888.14254 1161 89b607c6a7bc82a021da4e6800dfdfe1 "pdflatex"
-  "CV.out" 1732531888.14254 972 a28e1da0664a602e4fa5b5150dc3952a "pdflatex"
-  "CV.tex" 1732531886.99161 7285 b7f7141b07b5b313775274202a8bca75 ""
+  "CV.aux" 1742827781.75099 1066 27e579cabc21eef0c89d25da9913e492 "pdflatex"
+  "CV.out" 1742827781.75199 874 7ccc23bcfef3fed8810f8842c9e71070 "pdflatex"
+  "CV.tex" 1742827780.02796 7721 e2a6f60aebafed16cb05b9364908e7cb ""
   (generated)
   "CV.aux"
   "CV.log"

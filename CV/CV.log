@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.8.1)  25 NOV 2024 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.8.1)  24 MAR 2025 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -697,7 +697,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 58.
-<../files/profile-pic.png, id=47, 614.295pt x 614.295pt>
+<../files/profile-pic.png, id=43, 614.295pt x 614.295pt>
 File: ../files/profile-pic.png Graphic file (type png)
 <use ../files/profile-pic.png>
 Package pdftex.def Info: ../files/profile-pic.png  used on input line 58.
@@ -755,15 +755,19 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 79.
+(Font)              using `OT1/cmss/bx/n' instead on input line 78.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 79.
+(Font)              using `OT1/cmss/bx/n' instead on input line 78.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 80.
+(Font)              using `OT1/cmss/bx/n' instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 81.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -771,49 +775,49 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 82.
+(Font)              using `OT1/cmss/bx/n' instead on input line 84.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 84.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 85.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 86.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 86.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 87.
 
-<../files/Rlogo.png, id=50, 726.715pt x 563.10374pt>
-File: ../files/Rlogo.png Graphic file (type png)
-<use ../files/Rlogo.png>
-Package pdftex.def Info: ../files/Rlogo.png  used on input line 87.
-(pdftex.def)             Requested size: 11.29944pt x 8.75998pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 88.
 
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 88.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 89.
+
+<../files/Rlogo.png, id=46, 726.715pt x 563.10374pt>
+File: ../files/Rlogo.png Graphic file (type png)
+<use ../files/Rlogo.png>
+Package pdftex.def Info: ../files/Rlogo.png  used on input line 89.
+(pdftex.def)             Requested size: 11.29944pt x 8.75998pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 90.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 91.
+(Font)              using `OT1/cmss/bx/n' instead on input line 92.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 92.
+(Font)              using `OT1/cmss/bx/n' instead on input line 93.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
@@ -824,70 +828,57 @@ LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc} <../files/profile-pic.png> <../files/Rlogo.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 103.
+(Font)              using `OT1/cmss/bx/n' instead on input line 96.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 107.
+(Font)              using `OT1/cmss/bx/n' instead on input line 106.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 107.
+(Font)              using `OT1/cmss/bx/n' instead on input line 110.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 107.
+(Font)              using `OT1/cmss/bx/n' instead on input line 110.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 107.
+(Font)              using `OT1/cmss/bx/n' instead on input line 110.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 109.
+(Font)              using `OT1/cmss/bx/n' instead on input line 110.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 111.
+(Font)              using `OT1/cmss/bx/n' instead on input line 112.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 114.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/sb/n' undefined
-(Font)              using `OT1/cmss/m/n' instead on input line 115.
-
-
-Underfull \hbox (badness 10000) detected at line 115
-\OT1/cmss/m/n/8 .
- []
 
 [2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}] (./CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: A28E1DA0664A602E4FA5B5150DC3952A;972.
+(rerunfilecheck)             Checksum: 7CCC23BCFEF3FED8810F8842C9E71070;874.
  ) 
 Here is how much of TeX's memory you used:
- 27254 strings out of 474222
- 524178 string characters out of 5748734
+ 27244 strings out of 474222
+ 524052 string characters out of 5748734
  1945975 words of memory out of 5000000
- 48959 multiletter control sequences out of 15000+600000
- 579091 words of font info for 111 fonts, out of 8000000 for 9000
+ 48954 multiletter control sequences out of 15000+600000
+ 578650 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,129p,1576b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV.pdf (2 pages, 636905 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplr.pfb>
+Output written on CV.pdf (2 pages, 628404 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 12 named destinations out of 1000 (max. 500000)
- 37471 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 35415 words of extra memory for PDF output out of 35830 (max. 10000000)
 
