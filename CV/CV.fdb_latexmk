@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1793195825.07541 "CV.tex" "CV.pdf" "CV" 1793195825.99716 0
+["pdflatex"] 1793196150.52125 "CV.tex" "CV.pdf" "CV" 1793196151.31302 0
   "../files/Rlogo.png" 1722522768.69268 48148 909182496548f832840b6c43ef4fb5f7 ""
   "../files/profile-pic.png" 1722522768.70968 454098 fe462dd86095cc131dd6bed6bba3a1f3 ""
   "/etc/texmf/web2c/texmf.cnf" 1722518502.50165 475 c0e671620eb5563b2130f56340a5fde8 ""
@@ -199,9 +199,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1722520107.48855 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1722520185 8213931 27a54b7550b7673c22e7858e9ac8930f ""
-  "CV.aux" 1793195825.90199 1066 9f7e90e5576e33b6d4b87495e3aa75fa "pdflatex"
-  "CV.out" 1793195825.90199 874 7ccc23bcfef3fed8810f8842c9e71070 "pdflatex"
-  "CV.tex" 1793195819.32199 10021 96cd82a60d16f9ad1dd933fd9d7f4f12 ""
+  "CV.aux" 1793196151.22844 1066 9f7e90e5576e33b6d4b87495e3aa75fa "pdflatex"
+  "CV.out" 1793196151.22844 874 7ccc23bcfef3fed8810f8842c9e71070 "pdflatex"
+  "CV.tex" 1793196145.55976 10050 ba8552ee8c6e24fcd3546dac53cf0043 ""
   (generated)
   "CV.aux"
   "CV.log"
