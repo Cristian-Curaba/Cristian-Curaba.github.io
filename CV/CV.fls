@@ -3,7 +3,7 @@ INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/cristian-curaba/Desktop/ExtraUni/Personal Website/Cristian-Curaba.github.io/CV/CV.tex
+INPUT CV.tex
 OUTPUT CV.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
